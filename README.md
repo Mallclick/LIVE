@@ -1,25 +1,38 @@
-## Welcome to GitHub Pages
+## Welcome to Mall@Click
 
-You can use the [editor on GitHub](https://github.com/Mallclick/LIVE/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+We bring you the best quality products at the most affordable price!! 
+### About Us 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Our products :
 
-### Markdown
+1) Amazing Popular Quality Fashion Stores
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+2) Designer Bags 
 
-```markdown
+3) Your Favorite Restaurant 
+
+4) Latest Electronics
+
+5) Make-up and High-end Cosmetics
+
+6) Lets not forget about, "The Moola". BANK Services. 
+
+
+
+```MALL@CLICK MALLS
 Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
+# Johannesburg 
+## Cape Town
+### Durban 
 
-- Bulleted
-- List
+- Joburg
+- Top 25 Malls
 
-1. Numbered
-2. List
+1. Cape Town
+-  Over 15 High end Malls
+
+2. Durban
 
 **Bold** and _Italic_ and `Code` text
 
